@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Abel&family=Akshar&family=Anton&family=Josefin+Sans:ital,wght@1,300&family=Lexend+Deca:wght@300&family=Livvic&display=swap');
+@import url('./css/fonts.css');
+
+
 
 html body{
     margin: 0;
@@ -72,11 +74,11 @@ button.btn{
 }
 
 span{
-    font-family: 'Lexend';
+    font-family: var(--Lexend);
 }
 
 p{
-    font-family: Akshar;
+    font-family: var(--Akshar);
     font-size: 1.2rem;
     color: var(--white);
 }
