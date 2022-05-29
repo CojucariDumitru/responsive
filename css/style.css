@@ -72,11 +72,11 @@ button.btn{
 }
 
 span{
-    font-family: var(--Lexend);
+    font-family: 'Lexend';
 }
 
 p{
-    font-family: var(--Akshar);
+    font-family: Akshar;
     font-size: 1.2rem;
     color: var(--white);
 }
